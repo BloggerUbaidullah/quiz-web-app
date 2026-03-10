@@ -1,0 +1,5 @@
+{
+  "name": "Modern Quiz App",
+  "description": "A clean and minimal multiple-choice quiz application with a timer, progress tracking, and scoring.",
+  "requestFramePermissions": []
+}
